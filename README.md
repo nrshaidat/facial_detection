@@ -1,2 +1,3 @@
 # facial_detection
-Explorations on facial detection on pareidolia images.
+Explorations of facial detection on pareidolia images. The facial detection models used are the cascade classifier with pretrained weights from haarcascade_frontalface_default.xml and the other model tested is the pretrained MTCNN model. I created a database of 100 pareidolia inducing images called faces.db and each image in the db directory contains my predictions of what the model will detect as a face in the database. The db2 directory holds thatcher inducig images for testig purposes for another project that explores the thatcher effect on facial recognition algorithms. 
+# Link to article https://nataliershaidat.wixsite.com/portfolio/pareidolia
